@@ -1,0 +1,65 @@
+body{
+    background-color:#160c05;
+    color: white;
+    
+    background-size: 1920px,100px;
+    
+    background-repeat: no-repeat;
+ }
+ .box{
+     width: 900px;
+     height: 550px;
+    border-radius: 12px;
+     background-image: url('gallery/fourth.jpg');
+     background-repeat: no-repeat;
+     background-size: 1000px;
+     
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 50pxs;
+    margin-bottom: 20px;
+     text-align: center;
+     position: relative;
+ }
+ .brand{
+     font-size: 32px;
+     padding: 10px;
+     padding-left: 15px;
+     font-weight: bolder;
+ }
+ .change{
+     color: rgb(249, 159, 24);
+     position: relative;
+ }
+ .col-form-label{
+     font-size: 24px;
+   
+ }
+ form{
+     padding-left: 10px;
+ }
+ .btn-lg{
+     background-color:rgb(249, 159, 24) ;
+     color: white;
+     padding-left: 30px;
+     padding-right: 30px;
+ }
+ .btn a{
+     color: white;
+ }
+ .form{
+     margin-left: 40px;
+     margin-top: 70px;
+ }
+ .form-group{
+    padding-top: 20px;
+    padding-bottom: 0px;
+ }
+ .link {
+    color:rgb(249, 159, 24) ;
+ }
+ .link:hover{
+    color: white;
+ }
+
+ 
